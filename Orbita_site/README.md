@@ -3,7 +3,7 @@
 🚀 Современная веб-студия разработки
 
 ## 🌐 Сайт
-[Открыть сайт](https://твоя-ссылка-после-деплоя.netlify.app)
+[Открыть сайт]([https://твоя-ссылка-после-деплоя.netlify.app](https://molic-mgm.github.io/Website_orbita/))
 
 ## 📁 Структура проекта
 - `frontend/` - React приложение
@@ -16,3 +16,4 @@ cd frontend && npm install && npm start
 
 # Backend  
 cd backend && pip install -r requirements.txt && python server.py
+
